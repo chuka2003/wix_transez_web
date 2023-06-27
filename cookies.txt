@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+chukaokoro.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1687828877|0qcp6pZ8_4ik
+chukaokoro.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=uw2-pub-1
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	0127337542d44c2f864241dccca033c50e6c6a7cc5cd28f4a61fa49e7a1fb0cb1dc271d4a050a018ea86c46d80d380f77741950438
+chukaokoro.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
